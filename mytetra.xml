@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Администрирование">
+   <recordtable>
+    <record id="1488037616b387jmfb98" name="Изменение размера жесткого диска в Virtual Box " author="" url="" tags="" ctime="20170225184656" dir="1488037616fq8gd7mncp" file="text.html"/>
+    <record id="1488038634frolxylm9m" name="Путь к ini файлу в Total Commander" author="" url="" tags="" ctime="20170225190354" dir="1488038634hut0nuwhci" file="text.html"/>
+    <record id="1488203049y5fa6zm4kk" name="Как отключить Ctrl-Alt-Del при входе в Windows" author="" url="http://did5.ru/it/windows/kak-otklyuchit-ctrl-alt-del-pri-vxode-v-windows-server-2003.html" tags="" ctime="20170227164409" dir="1488203049xk6fgzgaab" file="text.html"/>
+    <record id="1511086598hst1n6ni2k" name="Горячие клавиши VirtualBox" author="" url="http://gorodovets.blogspot.ru/2013/12/virtualbox.html" tags="" ctime="20171119131638" dir="1511086598guvdcjawxs" file="text.html"/>
+    <record id="1544046173ywl9hu1uex" name="Total Commander путь к файлу" author="" url="http://www.trworkshop.net/forum/viewtopic.php?f=16&amp;t=43706" tags="" ctime="20181206004253" dir="1544046173gfqueu8rle" file="text.html"/>
+    <record id="1544046270doecnz3bxg" name="Изменение ассоциации файла через cmd" author="" url="https://windowsnotes.ru/windows-10/vybor-programm-po-umolchaniyu-v-windows-10-chast-2/" tags="" ctime="20181206004430" dir="15440462707t0jwl6670" file="text.html"/>
+    <record id="1565517981c3n1gac8wl" name="Раскладка на англ при входе в систему в домене" author="" url="http://trakrd.ru/2017/08/23/gpo/" tags="" ctime="20190811130621" dir="1565517981girs47gq4l" file="text.html"/>
+    <record id="1565617525hi0fuc37pz" name="Установка средств администрирования RSAT в Windows 10 1809" author="" url="http://winitpro.ru/index.php/2018/10/04/ustanovka-rsat-v-windows-10-iz-powershell/" tags="" ctime="20190812164525" dir="156561752569kocdu4tg" file="text.html"/>
+    <record id="15662910974e1nlasoc8" name="Регистрация клиента win10/2016 на WSUS " author="" url="https://docs.microsoft.com/ru-ru/windows-server/get-started/deprecated-features" tags="" ctime="20190820115137" dir="1566291097x4f1rmkf43" file="text.html"/>
+    <record id="1577647350k2z2v0arhi" name="Твики WSUS" author="" url="https://habr.com/ru/post/329440/" tags="" ctime="20191229222230" dir="1577647350fv73catun0" file="text.html"/>
+    <record id="1577647460r0rjec2pdo" name="Файловый сервер SAMBA " author="" url="https://habr.com/ru/post/337556/" tags="" ctime="20191229222420" dir="1577647460fv6qj9h8sz" file="text.html"/>
+    <record id="1577647510r0iqs1uziw" name="Файловый сервер для Windows" author="" url="https://help.ubuntu.ru/wiki/%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80_%D0%B4%D0%BB%D1%8F_windows" tags="" ctime="20191229222510" dir="15776475102cg12qgsp5" file="text.html"/>
+    <record id="1582210291a50p1x8bsu" name="Групповое переименование в Total Commander" author="" url="http://www.tiflocomp.ru/docs/tips_batch_renaming.php" tags="" ctime="20200220175131" dir="1582210291pctj4kijr5" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1516417521fw2de6udqs" name="Список ПО">
+    <recordtable>
+     <record id="1516426851q6hki6hmbm" name="DameWare Remote Support &amp; DameWare Mini Remote Control 12.0.2.3" author="" url="https://rutracker.org/forum/viewtopic.php?t=5203596" tags="" ctime="20180120084051" dir="15164268517h7uwioik1" file="text.html"/>
+     <record id="1516426912l0duq91c9i" name="FinalWire AIDA64 Extreme/Engineer/Business/Network Audit 5.95.4500 Final + Portable [Repack by Litoy]" author="" url="https://rutracker.org/forum/viewtopic.php?t=5306567" tags="" ctime="20180120084152" dir="1516426912kvxx8g0s1u" file="text.html"/>
+     <record id="151642695314tgfl8pf3" name="Alcohol 120% v2.0.3 Build 9902 Retail" author="" url="https://rutracker.org/forum/viewtopic.php?t=5397600" tags="" ctime="20180120084233" dir="151642695374vp8kcbdu" file="text.html"/>
+     <record id="15164269935mes21x93p" name="Autodesk AutoCAD 2018.1.1" author="" url="https://rutracker.org/forum/viewtopic.php?t=5474578" tags="" ctime="20180120084313" dir="1516426993nurcjvxjuf" file="text.html"/>
+     <record id="1516427019e2nkcs1tct" name="WinHex v18.4 Final" author="" url="https://rutracker.org/forum/viewtopic.php?t=5062048" tags="" ctime="20180120084339" dir="1516427019f6qvolpkav" file="text.html"/>
+     <record id="1516427051vqp7ls1onv" name="BlueScreenView v1.55 + Portable [Eng+Rus(русификатор)]" author="" url="https://rutracker.org/forum/viewtopic.php?t=2925065" tags="" ctime="20180120084411" dir="1516427051id9gm4am22" file="text.html"/>
+     <record id="15164270824gk656xjy9" name="CPU-Z v1.82.0 Portable by loginvovchyk" author="" url="https://rutracker.org/forum/viewtopic.php?t=5468822" tags="" ctime="20180120084442" dir="1516427082mg1otmk7kr" file="text.html"/>
+     <record id="1516427106t5ieja9q5p" name="CrystalDiskMark 6.0.0 [NEO] RePack / Portable" author="" url="https://rutracker.org/forum/viewtopic.php?t=5134072" tags="" ctime="20180120084506" dir="1516427106sjifrmj0pe" file="text.html"/>
+     <record id="15164271453ovn0r9oh2" name="HD Tune Pro 5.70 Retail" author="" url="https://rutracker.org/forum/viewtopic.php?t=5437392" tags="" ctime="20180120084545" dir="1516427145kll5u4n9wd" file="text.html"/>
+     <record id="1516427268cziid2i6m1" name="HWMonitor PRO v1.31 Final + Portable Official" author="" url="https://rutracker.org/forum/viewtopic.php?t=5507403" tags="" ctime="20180120084748" dir="151642726841ohcv0dkp" file="text.html"/>
+     <record id="151642741051jab34igz" name="WinToFlash Professional v1.12.0000 RePack+Portable by Dodakaedr" author="" url="https://rutracker.org/forum/viewtopic.php?t=5413254" tags="" ctime="20180120085010" dir="15164274101kdq4evsrc" file="text.html"/>
+     <record id="1516427437g55pwzgla4" name="Ontrack EasyRecovery Enterprise | Professional v11.5.0.3 Final" author="" url="https://rutracker.org/forum/viewtopic.php?t=5282036" tags="" ctime="20180120085037" dir="151642743700kzytnv5k" file="text.html"/>
+     <record id="1516427524d3qdlfuf3v" name="UltraISO Premium Edition v9.7.0.3476 Retail RePack by VIPol&#10;(DC 12.08.2017)" author="" url="https://rutracker.org/forum/viewtopic.php?t=5438931" tags="" ctime="20180120085204" dir="15164275244nxcne8ntp" file="text.html"/>
+     <record id="1516427544eu5yv032im" name="Runtime GetDataBack Simple v3.10 Final + Portable by PortableAppZ" author="" url="https://rutracker.org/forum/viewtopic.php?t=5342546" tags="" ctime="20180120085224" dir="1516427544cplrgvu92c" file="text.html"/>
+     <record id="15164275728vlu32l4jy" name="Wise Care 365 Pro v4.79.462 RePack+Portable by Dodakaedr" author="" url="https://rutracker.org/forum/viewtopic.php?t=5234546" tags="" ctime="20180120085252" dir="1516427572ijns8e0u7q" file="text.html"/>
+     <record id="1516427600z75toramlm" name="Комплекс программ для восстановления данных 4.3.Full. Portable" author="" url="https://rutracker.org/forum/viewtopic.php?t=4707975" tags="" ctime="20180120085320" dir="1516427600wmetewp8gz" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15810081802z43mtqctn" name="Развертывание Windows по сети">
+    <recordtable>
+     <record id="1581008217tru8d0nzol" name="1. Подготовка образа" author="" url="http://www.outsidethebox.ms/9951/" tags="" ctime="20200206195657" dir="1581008217wgip86ari8" file="text.html"/>
+     <record id="1581008272ofejmn8ek1" name="2. Развертывание через WDS" author="" url="https://habr.com/ru/post/376531/" tags="" ctime="20200206195752" dir="1581008272ugexm1z9aq" file="text.html"/>
+     <record id="15810082980co76uksgd" name="3. Тонкая настройка WDS" author="" url="https://habr.com/ru/post/171329/" tags="" ctime="20200206195818" dir="1581008298l561dc7od5" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1488037308p4pgqd41nl" name="Игры">
+   <recordtable>
+    <record id="1516765981ubnsi8zpu6" name="Gems of War" author="" url="" tags="" ctime="20180124065301" dir="15167659813uqehfv979" file="text.html"/>
+    <record id="15457729176ejb3cxqf5" name="Игромания" author="" url="https://rutracker.org/forum/viewtopic.php?t=5295596" tags="" ctime="20181226002157" dir="1545772917efvivn8n6x" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1490652932dbi9tvqthq" name="Книги">
+   <recordtable>
+    <record id="1490653059edqik64ir0" name="Серия про Фандорина" author="Акунин" url="https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B0%D1%81%D1%82_%D0%A4%D0%B0%D0%BD%D0%B4%D0%BE%D1%80%D0%B8%D0%BD" tags="" ctime="20170328011739" dir="1490653059yubzrblura" file="text.html"/>
+    <record id="1495711908l0ttpeunx4" name="КК" author="" url="" tags="" ctime="20170525143148" dir="1495711908bg3ha14dwq" file="text.html"/>
+    <record id="150128109952ctsaw4k0" name="Сальваторе" author="" url="https://rutracker.org/forum/viewtopic.php?t=3439600" tags="" ctime="20170729013139" dir="150128109999w3qldq83" file="text.html"/>
+    <record id="150476356032m36my5mo" name="Шаннара " author="Терри Брукс" url="https://rutracker.org/forum/viewtopic.php?t=5191035" tags="" ctime="20170907085240" dir="15047635606glwo28dej" file="text.html"/>
+    <record id="1521358927s0dsigx9m7" name="Алекс Орлов" author="" url="https://rutracker.org/forum/viewtopic.php?t=5313331" tags="" ctime="20180318104207" dir="1521358927m6ida45l92" file="text.html"/>
+    <record id="1521365250dcbrjc5ofj" name="Гийом Мюссо" author="" url="https://rutracker.org/forum/viewtopic.php?t=5351459" tags="" ctime="20180318122730" dir="15213652509l8ai4wnqm" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1510214457766nruyup1" name="Сериалы">
+   <node crypt="" id="1510231398sa1ddzi7cb" name="Ожидаю продолжения">
+    <recordtable>
+     <record id="1510231458pgcqqkvwzt" name="Полиция Гавайев" author="" url="http://www.lostfilm.tv/series/Hawaii_Five-0/" tags="" ctime="20171109154418" dir="1510231458qx1ls8xqqp" file="text.html"/>
+     <record id="151023152027d0gx3enw" name="Сверхъестественное" author="" url="http://www.lostfilm.tv/series/Supernatural" tags="" ctime="20171109154520" dir="15102315208bd5toff0v" file="text.html"/>
+     <record id="15102333577kmtp0yerp" name="Стрела" author="" url="http://www.lostfilm.tv/series/Arrow" tags="" ctime="20171109161557" dir="1510233357vkppdpavh1" file="text.html"/>
+     <record id="15102337941w46d01eps" name="Ходячие мертвецы" author="" url="http://www.lostfilm.tv/series/The_Walking_Dead" tags="" ctime="20171109162314" dir="15102337941pps1kk9pf" file="text.html"/>
+     <record id="1510234194qx7engn1ga" name="Шерлок" author="" url="http://www.lostfilm.tv/series/Sherlock" tags="" ctime="20171109162954" dir="15102341941x1fmiqypf" file="text.html"/>
+     <record id="15102342387vkuum01g8" name="Лучше звоните Солу" author="" url="http://www.lostfilm.tv/series/Better_Call_Saul" tags="" ctime="20171109163038" dir="1510234238rewlp1v0iq" file="text.html"/>
+     <record id="1510234904exegfcjwtn" name="Острые козырьки" author="" url="http://www.lostfilm.tv/series/Peaky_Blinders" tags="" ctime="20171109164144" dir="1510234904rjcc9kduzq" file="text.html"/>
+     <record id="1510234933570taetdyp" name="Викинги" author="" url="http://www.lostfilm.tv/series/Vikings" tags="" ctime="20171109164213" dir="1510234933rmqibdb83r" file="text.html"/>
+     <record id="1510235009q9o0kutt0u" name="Фарго" author="" url="http://www.lostfilm.tv/series/Fargo" tags="" ctime="20171109164329" dir="1510235009b9va9gio7j" file="text.html"/>
+     <record id="1510234983p2cx0znr88" name="Барыги" author="" url="http://www.lostfilm.tv/series/Narcos" tags="" ctime="20190223131411" dir="151023498327hhfxamue" file="text.html"/>
+     <record id="15509168995u1xeqrpmk" name="Миллиарды" author="" url="http://www.lostfilm.tv/series/Billions/seasons" tags="" ctime="20190223131459" dir="1550916899gen0fwcooh" file="text.html"/>
+     <record id="1550916957tw4w10tyts" name="Последнее королевство" author="" url="http://www.lostfilm.tv/series/The_Last_Kingdom/seasons" tags="" ctime="20190223131557" dir="1550916957n1gzj1qg7a" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1510235632ydd3c2arf0" name="Просмотренное">
+    <recordtable>
+     <record id="1510236348zfrkp27rng" name="Просмотрено, но не понравилось" author="" url="" tags="" ctime="20171109170548" dir="1510236348ir4yi0ox75" file="text.html"/>
+     <record id="15102365992c7qmp32ft" name="Просмотренно, понравилось" author="" url="" tags="" ctime="20171109170959" dir="1510236599jie7qq998k" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1557940594z4qvo106i9" name="Всякое">
+   <recordtable>
+    <record id="155794065963sqdtyz1i" name="Как открыть первое сообщение любой переписки" author="" url="" tags="" ctime="20190515201739" dir="1557940659lpgb5b6nde" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
