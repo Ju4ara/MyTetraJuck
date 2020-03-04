@@ -46,6 +46,18 @@
      <record id="15810082980co76uksgd" name="3. Тонкая настройка WDS" author="" url="https://habr.com/ru/post/171329/" tags="" ctime="20200206195818" dir="1581008298l561dc7od5" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="15832620312zzh1e5gsu" name="Linux">
+    <node crypt="" id="15832621240ofkby5d64" name="Lpic_semaev">
+     <recordtable>
+      <record id="15832714949frgh6aiv1" name="lpic101_1" author="" url="" tags="" ctime="20200304003814" dir="1583271494vaprkpvop4" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1583322936skwhoo8r13" name="Ubuntu">
+     <recordtable>
+      <record id="1583323058k98o2ekaiv" name="Geekbains" author="" url="" tags="" ctime="20200304145738" dir="1583323058dywgcf3te1" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="" id="1488037308p4pgqd41nl" name="Игры">
    <recordtable>
