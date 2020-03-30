@@ -47,6 +47,9 @@
     </recordtable>
    </node>
    <node crypt="" id="15832620312zzh1e5gsu" name="Linux">
+    <recordtable>
+     <record id="158531569860tlnaq2qe" name="Web сервисы" author="" url="" tags="" ctime="20200327162818" dir="1585315698w9a9b1nlcx" file="text.html"/>
+    </recordtable>
     <node crypt="" id="15832621240ofkby5d64" name="Lpic_semaev">
      <recordtable>
       <record id="15832714949frgh6aiv1" name="lpic101_1" author="" url="" tags="" ctime="20200304003814" dir="1583271494vaprkpvop4" file="text.html"/>
