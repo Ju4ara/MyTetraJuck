@@ -5,10 +5,8 @@
  <content>
   <node crypt="" id="1300000000aaaaaaaaa1" name="Администрирование">
    <recordtable>
-    <record id="1488037616b387jmfb98" name="Изменение размера жесткого диска в Virtual Box " author="" url="" tags="" ctime="20170225184656" dir="1488037616fq8gd7mncp" file="text.html"/>
     <record id="1488038634frolxylm9m" name="Путь к ini файлу в Total Commander" author="" url="" tags="" ctime="20170225190354" dir="1488038634hut0nuwhci" file="text.html"/>
     <record id="1488203049y5fa6zm4kk" name="Как отключить Ctrl-Alt-Del при входе в Windows" author="" url="http://did5.ru/it/windows/kak-otklyuchit-ctrl-alt-del-pri-vxode-v-windows-server-2003.html" tags="" ctime="20170227164409" dir="1488203049xk6fgzgaab" file="text.html"/>
-    <record id="1511086598hst1n6ni2k" name="Горячие клавиши VirtualBox" author="" url="http://gorodovets.blogspot.ru/2013/12/virtualbox.html" tags="" ctime="20171119131638" dir="1511086598guvdcjawxs" file="text.html"/>
     <record id="1544046173ywl9hu1uex" name="Total Commander путь к файлу" author="" url="http://www.trworkshop.net/forum/viewtopic.php?f=16&amp;t=43706" tags="" ctime="20181206004253" dir="1544046173gfqueu8rle" file="text.html"/>
     <record id="1544046270doecnz3bxg" name="Изменение ассоциации файла через cmd" author="" url="https://windowsnotes.ru/windows-10/vybor-programm-po-umolchaniyu-v-windows-10-chast-2/" tags="" ctime="20181206004430" dir="15440462707t0jwl6670" file="text.html"/>
     <record id="1565517981c3n1gac8wl" name="Раскладка на англ при входе в систему в домене" author="" url="http://trakrd.ru/2017/08/23/gpo/" tags="" ctime="20190811130621" dir="1565517981girs47gq4l" file="text.html"/>
@@ -48,9 +46,6 @@
     </recordtable>
    </node>
    <node crypt="" id="15832620312zzh1e5gsu" name="Linux">
-    <recordtable>
-     <record id="158531569860tlnaq2qe" name="Web сервисы" author="" url="" tags="" ctime="20200327162818" dir="1585315698w9a9b1nlcx" file="text.html"/>
-    </recordtable>
     <node crypt="" id="15832621240ofkby5d64" name="Lpic_semaev">
      <recordtable>
       <record id="15832714949frgh6aiv1" name="lpic101_1" author="" url="" tags="" ctime="20200304003814" dir="1583271494vaprkpvop4" file="text.html"/>
@@ -73,7 +68,6 @@
    <recordtable>
     <record id="1516765981ubnsi8zpu6" name="Gems of War" author="" url="" tags="" ctime="20180124065301" dir="15167659813uqehfv979" file="text.html"/>
     <record id="15457729176ejb3cxqf5" name="Игромания" author="" url="https://rutracker.org/forum/viewtopic.php?t=5295596" tags="" ctime="20181226002157" dir="1545772917efvivn8n6x" file="text.html"/>
-    <record id="15831029430g8cx6zy8z" name="Тест синхронизации" author="" url="" tags="" ctime="20200302014903" dir="15831029431gzm8pn00w" file="text.html"/>
     <record id="158557314122gwm1nbqw" name="Корсары" author="" url="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%81%D0%B0%D1%80%D1%8B_(%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)" tags="" ctime="20200330155901" dir="1585573141vhqfehv6ft" file="text.html"/>
    </recordtable>
   </node>
